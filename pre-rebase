@@ -1,0 +1,2 @@
+echo "pre-rebase"
+echo "$@"

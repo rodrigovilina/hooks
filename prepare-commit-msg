@@ -1,0 +1,2 @@
+echo "prepare-commit-msg"
+echo "$@"

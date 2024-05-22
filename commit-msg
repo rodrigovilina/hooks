@@ -1,0 +1,2 @@
+echo "commit-msg"
+echo "$@"
